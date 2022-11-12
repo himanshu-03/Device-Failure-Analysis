@@ -7,6 +7,13 @@ A company has a fleet of devices transmitting daily sensor readings. They would 
 
 <br>
 
+## 👀 Screenshots
+
+<img src = "/assets/1.png">
+<img src = "/assets/2.png">
+<img src = "/assets/3.png">
+<img src = "/assets/4.png">
+
 ## 🎯 Goal
 The task is to  build a predictive model using machine learning to `predict` the probability of a device failure. When building this model, be sure to minimize false positives and false negatives. The column you are trying to Predict is called `failure` with binary value `0 for non-failure` and `1 for failure`.
 
